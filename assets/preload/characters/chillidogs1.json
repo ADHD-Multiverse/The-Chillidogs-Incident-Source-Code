@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Chillidogs idle dance"
+		},
+		{
+			"offsets": [
+				47,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Chillidogs Sing Note LEFT0"
+		},
+		{
+			"offsets": [
+				-2,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Chillidogs Sing Note DOWN0"
+		},
+		{
+			"offsets": [
+				-3,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Chillidogs Sing Note UP0"
+		},
+		{
+			"offsets": [
+				-17,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Chillidogs Sing Note RIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chilli_Phase1",
+	"position": [
+		130,
+		270
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tails_assets.png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tails0000" x="0" y="0" width="719" height="366"/>
+	<SubTexture name="tails0001" x="0" y="0" width="719" height="366"/>
+	<SubTexture name="tails0002" x="739" y="0" width="719" height="366"/>
+	<SubTexture name="tails0003" x="739" y="0" width="719" height="366"/>
+	<SubTexture name="tails0004" x="0" y="386" width="719" height="366"/>
+	<SubTexture name="tails0005" x="0" y="386" width="719" height="366"/>
+	<SubTexture name="tails0006" x="739" y="386" width="719" height="366"/>
+	<SubTexture name="tails0007" x="739" y="386" width="719" height="366"/>
+	<SubTexture name="tails0008" x="0" y="772" width="719" height="366"/>
+	<SubTexture name="tails0009" x="0" y="772" width="719" height="366"/>
+</TextureAtlas>

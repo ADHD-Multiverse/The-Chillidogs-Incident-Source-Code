@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chilli_phase1.png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chillidogs Sing Note DOWN0000" x="0" y="0" width="336" height="383"/>
+	<SubTexture name="Chillidogs Sing Note DOWN0001" x="0" y="0" width="336" height="383"/>
+	<SubTexture name="Chillidogs Sing Note DOWN0002" x="356" y="0" width="336" height="383"/>
+	<SubTexture name="Chillidogs Sing Note DOWN0003" x="356" y="0" width="336" height="383"/>
+	<SubTexture name="Chillidogs Sing Note DOWN0004" x="712" y="0" width="336" height="383"/>
+	<SubTexture name="Chillidogs Sing Note DOWN0005" x="712" y="0" width="336" height="383"/>
+	<SubTexture name="Chillidogs Sing Note LEFT0000" x="1068" y="0" width="376" height="388"/>
+	<SubTexture name="Chillidogs Sing Note LEFT0001" x="1068" y="0" width="376" height="388"/>
+	<SubTexture name="Chillidogs Sing Note LEFT0002" x="1464" y="0" width="376" height="388"/>
+	<SubTexture name="Chillidogs Sing Note LEFT0003" x="1464" y="0" width="376" height="388"/>
+	<SubTexture name="Chillidogs Sing Note LEFT0004" x="0" y="408" width="376" height="388"/>
+	<SubTexture name="Chillidogs Sing Note LEFT0005" x="0" y="408" width="376" height="388"/>
+	<SubTexture name="Chillidogs Sing Note RIGHT0000" x="396" y="408" width="344" height="387"/>
+	<SubTexture name="Chillidogs Sing Note RIGHT0001" x="396" y="408" width="344" height="387"/>
+	<SubTexture name="Chillidogs Sing Note RIGHT0002" x="760" y="408" width="344" height="387"/>
+	<SubTexture name="Chillidogs Sing Note RIGHT0003" x="760" y="408" width="344" height="387"/>
+	<SubTexture name="Chillidogs Sing Note RIGHT0004" x="1124" y="408" width="344" height="387"/>
+	<SubTexture name="Chillidogs Sing Note RIGHT0005" x="1124" y="408" width="344" height="387"/>
+	<SubTexture name="Chillidogs Sing Note UP0000" x="1488" y="408" width="334" height="418"/>
+	<SubTexture name="Chillidogs Sing Note UP0001" x="1488" y="408" width="334" height="418"/>
+	<SubTexture name="Chillidogs Sing Note UP0002" x="0" y="846" width="334" height="418"/>
+	<SubTexture name="Chillidogs Sing Note UP0003" x="0" y="846" width="334" height="418"/>
+	<SubTexture name="Chillidogs Sing Note UP0004" x="354" y="846" width="334" height="418"/>
+	<SubTexture name="Chillidogs Sing Note UP0005" x="354" y="846" width="334" height="418"/>
+	<SubTexture name="Chillidogs idle dance0000" x="708" y="846" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0001" x="708" y="846" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0002" x="1080" y="846" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0003" x="1080" y="846" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0004" x="1452" y="846" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0005" x="1452" y="846" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0006" x="0" y="1284" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0007" x="0" y="1284" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0008" x="372" y="1284" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0009" x="372" y="1284" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0010" x="372" y="1284" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0011" x="372" y="1284" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0012" x="372" y="1284" width="352" height="387"/>
+	<SubTexture name="Chillidogs idle dance0013" x="372" y="1284" width="352" height="387"/>
+	<SubTexture name="Chillidogs speak0000" x="744" y="1284" width="340" height="393"/>
+	<SubTexture name="Chillidogs speak0001" x="744" y="1284" width="340" height="393"/>
+	<SubTexture name="Chillidogs speak0002" x="1104" y="1284" width="340" height="393"/>
+	<SubTexture name="Chillidogs speak0003" x="1104" y="1284" width="340" height="393"/>
+	<SubTexture name="Chillidogs speak0004" x="1464" y="1284" width="340" height="393"/>
+	<SubTexture name="Chillidogs speak0005" x="1464" y="1284" width="340" height="393"/>
+</TextureAtlas>
